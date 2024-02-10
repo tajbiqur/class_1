@@ -1,0 +1,69 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    color: blue;
+}
+
+/* Golobal section css code  end */
+
+/* Container section css code start */
+
+.container{
+    width: 87%;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Image section css code start*/
+
+.img img{
+    width: 100px;
+    margin-top: 10px;
+}
+
+/* Image section css code end */
+
+/* Manu section css code start */
+
+.manu ul li{
+    padding-right: 10px;
+    margin-top: 40px;
+    list-style-type: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
+/* Manu section css code end*/
+
+/* Button section css code start */
+
+.button{
+    margin-top: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.signin, .signup{
+    margin-right: 4px;
+    width:  60px;
+    height: 20px;
+    background-color: #2e367d;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+/* Button section css code start */
+
+/* Container section css code end */
